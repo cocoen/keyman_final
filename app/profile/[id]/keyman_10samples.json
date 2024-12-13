@@ -1,0 +1,1291 @@
+{
+    "employees": [
+        {
+            "id": "KEYMAN001",
+            "personalInfo": {
+                "name": "한세혁",
+                "email": "sh.han@poscoflow.com",
+                "mphone": "010-9013-2539",
+                "dphone": "02-3457-3175",
+                "location": "서울 서관 14층"
+            },
+            "eduBg": [
+                {
+                    "degree": "학사",
+                    "major": "물류학",
+                    "date_awarded": "2017-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "학사",
+                "academic_major": "물류학",
+                "company": "포스코플로우",
+                "department": "컨테이너섹션",
+                "position": "대리",
+                "yearsOfExperience": 8,
+                "joinDate": "2021-05-16",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "soft": ["리더십", "프로젝트 관리", "팀워크"],
+                "certifications": [
+                    {
+                        "name": "무역영어1급",
+                        "issueDate": "2013-05",
+                        "expiryDate": "2099-12"
+                    },
+                    {
+                        "name": "물류관리사",
+                        "issueDate": "2013-07",
+                        "expiryDate": "2099-12"
+                    },
+                    {
+                        "name": "원산지관리사",
+                        "issueDate": "2024-05",
+                        "expiryDate": "2099-12"
+                    },
+                    {
+                        "name": "보세사",
+                        "issueDate": "2024-08",
+                        "expiryDate": "2099-12"
+                    }
+                ]
+            },
+            "workExps": [
+                {
+                    "name": "컨테이너 물류 프로세스 관리 및 통관 지원",
+                    "duration_from": "2021-05",
+                    "duration_to": "2024-11"
+                }
+            ],
+            "projects": [],
+            "distinctions": [
+                {
+                    "name": "2024 제1회 포스코그룹 WX 해커톤 대회",
+                    "role": "기획자",
+                    "duration_from": "2024-11",
+                    "duration_to": "2024-12",
+                    "technologies_or_skills": ["Team Leading", "Ideation", "Interconnection"],
+                    "achievements": [
+                        "키맨 솔루션 기획",
+                        "기획자와 개발자 협업",
+                        "키맨 팀 리딩",
+                        "최우수상 수상"
+                    ]
+                }
+            ],
+            "businessKeywords": [
+                "컨테이너 물류",
+                "인바운드 물류",
+                "아웃바운드 물류",
+                "프로젝트 물류",
+                "포워딩 시스템",
+                "국제 물류"
+            ],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 포스코플로우 컨테이너섹션에서 대리로 근무하고 있는 한세혁입니다. 물류 분야에서 약 8년의 경력을 쌓아왔으며, 2021년 5월 포스코플로우에 합류하여 현재까지 컨테이너 물류 프로세스 관리와 통관 지원 업무를 담당하고 있습니다. 제 사무실은 서울 서관 14층에 위치해 있습니다."
+                },
+                {
+                    "section": "학력 및 전문성",
+                    "text": "저는 2017년 2월 물류학 학사 학위를 취득하며 물류 관리의 기초와 전문성을 다졌습니다. 이후 다양한 프로젝트와 실무 경험을 통해 물류와 국제 통관 업무에서 전문성을 발전시켜 왔습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "리더십, 프로젝트 관리, 팀워크와 같은 소프트 스킬을 강점으로 삼고 있습니다. 또한 아래와 같은 자격증을 보유하고 있습니다:\n- 무역영어1급 (2013년 5월 취득)\n- 물류관리사 (2013년 7월 취득)\n- 원산지관리사 (2024년 5월 취득)\n- 보세사 (2024년 8월 취득)"
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경험",
+                    "text": "포스코플로우에서 저는 다음과 같은 프로젝트를 통해 물류 분야의 역량을 증명해 왔습니다:\n- 컨테이너 물류 프로세스 관리: 인바운드 및 아웃바운드 물류 운영 최적화.\n- 국제 통관 지원: 원활한 통관 절차와 규제 준수 보장.\n- 고객 맞춤형 프로젝트 물류 솔루션 설계 및 실행."
+                },
+                {
+                    "section": "수상 경력",
+                    "text": "2024년 포스코그룹 WX 해커톤 대회에서 기획자로 참여하여, 팀 리딩과 협업을 통해 키맨 솔루션을 기획하였습니다. 이 대회를 통해 창의적인 아이디어를 실현하여 팀을 성공적으로 이끌었으며, 회장상에 해당하는 최우수상을 받았습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 물류 분야의 새로운 표준을 제시하며, 효율적이고 지속 가능한 물류 시스템을 구축하는 데 기여하고자 합니다. 또한, 포스코플로우 내에서 더 많은 프로젝트에 참여하여 조직의 성장과 발전에 이바지하고 싶습니다."
+                }
+            ]
+        }, 
+        {
+            "id": "KEYMAN002",
+            "personalInfo": {
+                "name": "이혜민",
+                "email": "lhmin@posco-inc.com",
+                "mphone": "010-4557-3292",
+                "dphone": "054-222-6752",
+                "location": "포항 미래기술연구원 본원"
+            },
+            "eduBg": [
+                {
+                    "degree": "박사",
+                    "major": "컴퓨터공학",
+                    "date_awarded": "2023-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "박사",
+                "academic_major": "컴퓨터공학",
+                "company": "포스코홀딩스", 
+                "department": "AI로봇융합연구소",
+                "position": "수석연구원",
+                "yearsOfExperience": 10,
+                "joinDate": "2023-01-06",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "Python",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "AI 모델링",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "데이터 분석",
+                        "proficiency": "Intermediate"
+                    }
+                ],
+                "soft": ["목표지향성", "주도성", "협업"],
+                "certifications": [
+                    {
+                        "name": "TensorFlow Developer Certificate",
+                        "issueDate": "2022-06",
+                        "expiryDate": "2099-12"
+                    },
+                    {
+                        "name": "AWS Certified Machine Learning Specialist",
+                        "issueDate": "2021-11",
+                        "expiryDate": "2099-12"
+                    },
+                    {
+                        "name": "Robot Operating System (ROS) Expert Certification",
+                        "issueDate": "2023-01",
+                        "expiryDate": "2099-12"
+                    }
+                ]
+            },
+            "workExps": [
+                {
+                    "name": "포스코그룹 WX 해커톤 (포스코 그룹 인텔리전트 임직원 검색 솔루션 키맨) 개발자 참여",
+                    "duration_from": "2024-11",
+                    "duration_to": "2024-12"
+                },
+                {
+                    "name": "자율주행 기관차 플랫폼 구축 (23년 임원포상 수상)",
+                    "duration_from": "2023-02",
+                    "duration_to": "2024-12"
+                },
+                {
+                    "name": "자율주행 TLC 플랫폼 구축",
+                    "duration_from": "2024-03",
+                    "duration_to": "2024-12"
+                },
+                {
+                    "name": "지능형 자동차 시스템 구축",
+                    "duration_from": "2017-02",
+                    "duration_to": "2022-12"
+                },
+                {
+                    "name": "종합 안전 예지 지능형 시스템 구축",
+                    "duration_from": "2015-02",
+                    "duration_to": "2022-12"
+                }                   
+            ],
+            "projects": [],
+            "distinctions": [
+                {
+                    "name": "2024 제1회 포스코그룹 WX 해커톤 대회",
+                    "role": "개발자",
+                    "duration_from": "2024-11",
+                    "duration_to": "2024-12",
+                    "technologies_or_skills": ["Python", "Ideation", "LLM+RAG"],
+                    "achievements": [
+                        "키맨 솔루션 개발",
+                        "기획자와 디자이너와 협업",
+                        "인텔리전트 임직원 검색 기능 구현",
+                        "회장상 수상"
+                    ]
+                }
+            ],
+            "businessKeywords": [],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 포스코홀딩스 AI로봇융합연구소에서 수석연구원으로 근무하고 있는 이혜민입니다. AI와 로봇 기술을 융합한 혁신적인 솔루션 개발을 주도하며, 약 10년간의 연구와 실무 경험을 통해 기업의 디지털 전환과 기술적 경쟁력 향상에 기여하고 있습니다. 제 사무실은 포항 미래기술연구원 본원에 위치해 있습니다."
+                },
+                {
+                    "section": "학력 및 전공",
+                    "text": "저는 2023년 2월 컴퓨터공학 박사 학위를 취득하며, AI 및 로봇 기술에 대한 이론적 기반과 실무 능력을 갖추었습니다. 학업 중에는 자율주행, 딥러닝 알고리즘, 그리고 AI 기반 로봇 시스템 개발에 집중하여 다수의 연구 논문을 발표하였습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "AI 모델링, 데이터 분석, 협업과 같은 소프트 스킬을 강점으로 삼고 있습니다. 또한 아래와 같은 자격증을 보유하고 있습니다:\n- TensorFlow Developer Certificate (2022년 취득)\n- AWS Certified Machine Learning Specialist (2021년 취득)\n- Robot Operating System (ROS) Expert Certification (2023년 취득)"
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경력",
+                    "text": "포스코홀딩스에서 저는 다음과 같은 주요 프로젝트를 통해 AI 및 로봇 기술 분야에서의 전문성을 증명해 왔습니다:\n- WX 해커톤: 인텔리전트 임직원 검색 솔루션 개발\n- 자율주행 기관차 개발 프로젝트\n- 자율주행 TLC 플랫폼 구축\n- 지능형 자동차 시스템 구축 \n-종합 안전 예지 지능형 시스템 구축"
+                },
+                {
+                    "section": "수상 경력",
+                    "text": "2024년 포스코 그룹 WX 해커톤 대회에서 우수한 AI 알고리즘 설계 및 구현 능력을 인정받아 회장상을 수상하였습니다. 또한, 2023년 임원상을 통해 우수한 기술력을 인정받았습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 AI와 로봇 기술의 융합을 통해 지속 가능한 미래를 선도하는 연구개발에 기여하고자 합니다. 또한, 기업의 디지털 전환을 가속화하며 글로벌 시장에서의 경쟁력을 강화할 수 있는 솔루션을 개발하고, 조직의 성장을 이끌어가고 싶습니다."
+                }
+            ]
+        }, 
+        {
+            "id": "KEYMAN003",
+            "personalInfo": {
+                "name": "황혁기",
+                "email": "qbranes@rist.re.kr",
+                "mphone": "010-3328-2341",
+                "dphone": "054-279-6196",
+                "location": "포항 RIST 본원"
+            },
+            "eduBg": [
+                {
+                    "degree": "학사",
+                    "major": "물리학",
+                    "date_awarded": "1994-02"
+                },
+                {
+                    "degree": "석사",
+                    "major": "수리물리학",
+                    "date_awarded": "1995-06"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "석사",
+                "academic_major": "수리물리학",
+                "company": "RIST",
+                "department": "스마트공정안전연구그룹",
+                "position": "수석연구원",
+                "yearsOfExperience": 23,
+                "joinDate": "2020-11-16",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "Python",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "R",
+                        "proficiency": "Expert"
+                    },
+                    {
+                        "name": "SQL",
+                        "proficiency": "Expert"
+                    },
+                    {
+                        "name": "데이터 모델링",
+                        "proficiency": "Advanced"
+                    }
+                ],
+                "soft": ["집중력", "디지털 리더십", "커뮤니케이션"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "수석 데이터 과학자 (산업안전, 이차전지, 경영전략 분야의 AI 응용 모델링 및 시스템 구축)",
+                    "duration_from": "2020-11",
+                    "duration_to": "2024-12"
+                },
+                {
+                    "name": "퀀트 및 데이터 과학자 (금융 리스크관리)",
+                    "duration_from": "2006-08",
+                    "duration_to": "2020-11"
+                },
+                {
+                    "name": "데이터 엔지니어 (의생명과학)",
+                    "duration_from": "2001-09",
+                    "duration_to": "2004-06"
+                }
+            ],
+            "projects": [],
+            "distinctions": [
+                {
+                    "name": "2024 제1회 포스코그룹 WX 해커톤 대회",
+                    "role": "개발자",
+                    "duration_from": "2024-11",
+                    "duration_to": "2024-12",
+                    "technologies_or_skills": ["데이터 모델", "Ideation", "커뮤니케이션"],
+                    "achievements": [
+                        "키맨 솔루션 데이터 플로우 및 전처리",
+                        "기획자와 디자이너와 협업",
+                        "가상 HR 데이터셋 생성",
+                        "회장상 수여"
+                    ]
+                }
+            ],
+            "businessKeywords": [],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 RIST 스마트공정안전연구그룹에서 수석연구원으로 근무하고 있는 황혁기입니다. 물리학과 수리물리학을 전공하며 학사와 석사 학위를 취득했으며, 약 23년간 다양한 산업 분야에서 데이터 과학자로서의 전문성을 쌓아왔습니다. 2020년 11월 RIST에 합류한 이후, 산업안전, 이차전지, 경영전략 분야의 AI 응용 모델링 및 시스템 구축 업무를 담당하고 있습니다. 제 사무실은 포항 RIST 본원에 위치해 있습니다."
+                },
+                {
+                    "section": "학력 및 전문성",
+                    "text": "저는 1994년 2월 물리학 학사 학위를, 1995년 6월 수리물리학 석사 학위를 취득하였습니다. 이러한 학문적 배경을 바탕으로 물리적 모델링과 데이터 분석을 결합하여 산업 현장에서 유의미한 결과를 도출할 수 있는 역량을 갖추게 되었습니다. 금융, 의생명과학, 산업 안전 등 다양한 분야에서 경력을 쌓으며 폭넓은 전문성을 구축하였습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "저는 Python, R, SQL 등 다양한 데이터 분석 도구에 대해 고급 이상의 숙련도를 보유하고 있으며, 데이터 모델링에도 능숙합니다. 또한 집중력과 디지털 리더십, 커뮤니케이션 능력을 강점으로 삼고 있습니다."
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경험",
+                    "text": "RIST에서 저는 다음과 같은 업무를 통해 데이터 과학자로서의 역량을 발휘하였습니다:\n- 산업안전, 이차전지, 경영전략 분야의 AI 응용 모델링 및 시스템 구축\n- 금융 리스크 관리에서의 퀀트 및 데이터 과학자 역할 수행\n- 의생명과학 데이터 엔지니어로서 데이터 처리 및 분석\n또한, 2024년 포스코그룹 WX 해커톤 대회에서는 키맨 솔루션 데이터 플로우 설계 및 전처리를 맡아 팀의 성과에 기여하였습니다."
+                },
+                {
+                    "section": "수상 경력",
+                    "text": "2024년 포스코그룹 WX 해커톤 대회에서 개발자로 참여하여 데이터 모델링과 아이디어 구상을 통해 팀을 성공적으로 이끌었습니다. 이 대회에서 가상 HR 데이터셋을 생성하고 기획자 및 디자이너와 협업하며 회장상에 선정되는 성과를 거두었습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 데이터 과학 기술을 활용하여 지속 가능하고 안전한 산업 환경을 구축하는 데 기여하고자 합니다. 특히, AI 및 데이터 분석 기술을 통해 산업 프로세스의 효율성을 극대화하고, 데이터 중심의 의사결정 체계를 마련하는 데 중점을 두고자 합니다."
+                }
+            ]
+        },
+        {
+            "id": "KEYMAN004",
+            "personalInfo": {
+                "name": "유상태",
+                "email": "noname_architect@poscoenc.com",
+                "mphone": "010-3943-4170",
+                "dphone": "032-748-3538",
+                "location": "인천 송도 포스코이앤씨 본사 14층"
+            },
+            "eduBg": [
+                {
+                    "degree": "학사",
+                    "major": "건축설계학",
+                    "date_awarded": "2011-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "학사",
+                "academic_major": "건축설계학",
+                "company": "포스코이앤씨", 
+                "department": "건축설계그룹",
+                "position": "대리",
+                "yearsOfExperience": 8,
+                "joinDate": "2020-11-01",
+                "employmentType": "정규직"            
+            },
+            "skills": {
+                "soft": ["디자인", "기획", "협업"],
+                "certifications": [
+                    {
+                        "name": "LEED AP",
+                        "issueDate": "2018-05",
+                        "expiryDate": "2099-12"
+                    },
+                    {
+                        "name": "건축사",
+                        "issueDate": "2020-03",
+                        "expiryDate": "2099-12"
+                    },
+                    {
+                        "name": "BIM 전문가",
+                        "issueDate": "2021-05",
+                        "expiryDate": "2099-12"
+                    }
+                ]
+            },
+            "workExps": [
+                {
+                    "name": "WX 해커톤 (포스코 그룹 인텔리전트 임직원 검색 솔루션) 디자인 개발 참여",
+                    "duration_from": "2024-11",
+                    "duration_to": "2024-12"
+                },
+                {
+                    "name": "포스코이앤씨 에코스케이프 디자인 개발 참여",
+                    "duration_from": "2024-07",
+                    "duration_to": "2024-10"
+                },
+                {
+                    "name": "소형 스마트 주거상품 개발 및 특허출원 및 대외홍보",
+                    "duration_from": "2024-04",
+                    "duration_to": "2024-07"
+                },
+                {
+                    "name": "친환경 이동식 근로자 쉼터 (‘23년 COP 우수상) 기획/설계 총괄 및 대외홍보",
+                    "duration_from": "2023-05",
+                    "duration_to": "2023-12"
+                },
+                {
+                    "name": "포스코 동네 고양이 급식소 기획/설계 총괄 (‘20년 포스코 ESG 장려상 수상)",
+                    "duration_from": "2020-12",
+                    "duration_to": "2020-12"
+                }
+            ],            
+            "projects": [],
+            "distinctions": [
+                {
+                    "name": "2024 제1회 포스코그룹 WX 해커톤 대회",
+                    "role": "디자이너",
+                    "duration_from": "2024-11",
+                    "duration_to": "2024-12",
+                    "technologies_or_skills": ["Presentation", "Adobe Photoshop", "팀워크"],
+                    "achievements": [
+                        "키맨 솔루션 디자인",
+                        "기획자와 개발자와 협업",
+                        "발표자료 디자인",
+                        "회장상"
+                    ]
+                }
+            ],
+            "businessKeywords": [],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 POSCO E&C 건축설계그룹에서 대리로 근무하고 있는 유상태입니다. 건축 설계와 외관특화 디자인 분야에서 약 10년간의 경험을 쌓아왔으며, 현재는 지속 가능한 디자인 솔루션과 고객 맞춤형 외관 설계를 담당하고 있습니다. 제 사무실은 인천 송도에 위치해 있습니다."
+                },
+                {
+                    "section": "학력 및 전공",
+                    "text": "저는 2011년 부산대학교 건축학과를 졸업하며 건축 설계 및 디자인에 대한 기초와 전문성을 다졌습니다. 이후 다양한 프로젝트와 실무 경험을 통해 건축 설계와 외관 디자인 분야에서 전문성을 발전시켜 왔습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "디자인, 신사업 기획, 협업및 소통과 같은 소프트 스킬을 강점으로 삼고 있습니다. 또한 아래와 같은 자격증을 보유하고 있습니다:\n- 건축사 자격증 (2020년 취득)\n- LEED AP (2018년 취득)\n- BIM 전문가 인증 (2022년 취득)"
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경력",
+                    "text": "POSCO E&C에서 저는 다음과 같은 주요 프로젝트를 통해 건축 설계와 외관 디자인 분야의 역량을 증명해 왔습니다:\n- WX 해커톤: 인텔리전트 임직원 검색 솔루션 디자인 개발 참여\n- 에코스케이프 디자인 개발 참여\n- 2024 기후산업국제박람회 POSCO 부스 기획 및 디자인\n- 소형 스마트 주거상품 개발 및 대외홍보"
+                },
+                {
+                    "section": "수상 경력",
+                    "text": "2024년 POSCO 그룹 WX 해커톤 대회에서 디자이너로 참여하여 우수한 디자인 능력으로 창의적인 아이디어를 실현하며 회장상을 수상하였습니다. 이 경험은 프로젝트 성공과 팀 성과 향상에 크게 기여하였습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 건축 설계와 외관 디자인 분야의 새로운 기준을 제시하며, 지속 가능하고 혁신적인 디자인을 통해 POSCO E&C가 글로벌 시장에서 더욱 경쟁력을 갖출 수 있도록 기여하고자 합니다. 또한 다양한 프로젝트를 통해 조직의 성장과 발전에 이바지하고 싶습니다."
+                }   
+            ]
+        },
+        {
+            "id": "KEYMAN005",
+            "personalInfo": {
+                "name": "조서영",
+                "email": "j0seoyoung@poscodx.com",
+                "mphone": "010-3305-1735",
+                "dphone": "010-3305-1735",
+                "location": "포스코DX 판교사무소"
+            },
+            "eduBg": [
+                {
+                    "degree": "학사",
+                    "major": "예술공학",
+                    "Data_awarded": "2023-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "학사",
+                "academic_major": "예술공학",
+                "company": "포스코DX", 
+                "department": "철강IT개발섹션",
+                "position": "프로",
+                "yearsOfExperience": 1,
+                "joinDate": "2023-04-23",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "검색엔진 운영",
+                        "proficiency": "Basic"
+                    },
+                    {
+                        "name": "데이터 분석",
+                        "proficiency": "Basic"
+                    }
+                ],
+                "soft": ["협업", "팀워크"],
+                "certifications": [] 
+            },
+            "workExps": [
+                {
+                    "name": "포스코그룹 WX 해커톤 (포스코 그룹 인텔리전트 임직원 검색 솔루션 키맨) 디자이너 참여",
+                    "duration_from": "2024-11",
+                    "duration_to": "2024-12"
+                },
+                {
+                    "name": "포스코 연봉관리시스템 구축",
+                    "duration_from": "2023-04",
+                    "duration_to": "2023-10"
+                },
+                {
+                    "name": "철강IT개발섹션 검색파트 운영",
+                    "duration_from": "2023-10",
+                    "duration_to": "2024-12"
+                }
+            ],
+            "projects": [],
+            "distinctions": [
+                {
+                    "name": "2024 제1회 포스코그룹 WX 해커톤 대회",
+                    "role": "디자이너",
+                    "duration_from": "2024-11",
+                    "duration_to": "2024-12",
+                    "technologies_or_skills": ["UI/UX", "Ideation", "팀워크"],
+                    "achievements": [
+                        "키맨 솔루션 프론트엔드 디자인",
+                        "기획자와 개발자와 협업",
+                        "회장상 수상"
+                    ]
+                }
+            ],
+            "businessKeywords": [], 
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 포스코DX 철강IT개발섹션에서 프로로 근무하고 있는 조서영입니다. 2023년 2월 예술공학 학사 학위를 취득한 후, 같은 해 4월 포스코DX에 합류하여 현재 판교사무소에서 철강IT개발섹션 검색파트 운영 업무를 담당하고 있습니다."
+                },
+                {
+                    "section": "학력 및 전문성",
+                    "text": "저는 예술공학을 전공하며 창의성과 기술을 융합하는 방법론을 학습하였습니다. 학문적 기반을 바탕으로 IT와 데이터 중심의 환경에서 검색엔진 운영 및 데이터 분석과 같은 기술을 다루며, 실무에서 이를 적용하고 있습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "저는 검색엔진 운영과 데이터 분석과 같은 기술을 활용할 수 있는 역량을 보유하고 있으며, 협업과 팀워크를 강점으로 삼고 있습니다. UI/UX와 관련된 작업 경험을 통해 사용자 중심의 디자인을 구현하는 데에도 자신감을 가지고 있습니다."
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경험",
+                    "text": "포스코DX에서 다음과 같은 업무를 통해 실무 경험을 쌓아왔습니다:\n- 철강IT개발섹션 검색파트 운영: 시스템 유지보수와 최적화를 수행하며 검색 효율성을 높이는 작업을 담당하였습니다.\n- 포스코 연봉관리시스템 구축: 사용자 친화적인 시스템 설계를 지원하며 개발 프로젝트에 기여하였습니다.\n- 포스코그룹 WX 해커톤: 인텔리전트 임직원 검색 솔루션 키맨 프로젝트에서 디자이너로 참여하여 UI/UX 설계 및 팀 협업에 기여하였습니다."
+                },
+                {
+                    "section": "수상 경력",
+                    "text": "2024년 포스코그룹 WX 해커톤 대회에서 디자이너로 참여하여 키맨 솔루션 프론트엔드 디자인과 협업을 성공적으로 수행하였습니다. 이 대회에서 팀과 함께 창의적 아이디어를 구현하며 회장상 수상 성과를 달성하였습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 IT와 사용자 경험 디자인을 결합하여 효율적이고 직관적인 시스템을 구축하고자 합니다. 앞으로 검색 기술과 데이터 분석 역량을 더욱 심화시켜, 조직의 디지털 혁신에 기여하고자 합니다."
+                }
+            ]
+        }, 
+        {
+            "id": "KEYMAN006",
+            "personalInfo": {
+                "name": "김코딩",
+                "email": "kimcoding@poscodx.com",
+                "mphone": "010-1234-5678",
+                "dphone": "010-1234-5678",
+                "location": "포스코DX 로봇자동화센터"
+            },
+            "eduBg": [
+                {
+                    "degree": "학사",
+                    "major": "기계공학",
+                    "date_awarded": "2001-02"
+                },
+                {
+                    "degree": "석사",
+                    "major": "컴퓨터공학",
+                    "date_awarded": "2003-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "석사",
+                "academic_major": "컴퓨터공학",
+                "company": "포스코DX",
+                "department": "로봇자동화센터",
+                "position": "수석연구원",
+                "yearsOfExperience": 16,
+                "joinDate": "2020-01-15",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "Python",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "C++",
+                        "proficiency": "Expert"
+                    },
+                    {
+                        "name": "Java",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "ROS (Robot Operating System)",
+                        "proficiency": "Expert"
+                    }
+                ],
+                "soft": ["문제 해결 능력", "팀워크", "기술적 리더십"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "모바일 로봇 제어 소프트웨어 설계",
+                    "duration_from": "2022-01",
+                    "duration_to": "2022-12"
+                },
+                {
+                    "name": "이동운반체 자율주행 알고리즘 개발",
+                    "duration_from": "2023-01",
+                    "duration_to": "2023-12"
+                },
+                {
+                    "name": "비전 기반 물체 및 장애물 검출 기술 연구",
+                    "duration_from": "2024-01",
+                    "duration_to": "2024-12"
+                }            ],
+            "projects": [],
+            "distinctions": [],
+            "businessKeywords": [
+                "모바일 로봇",
+                "자율주행",
+                "ROS",
+                "로봇 제어",
+                "비전 기술"
+            ],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 포스코DX 로봇자동화센터에서 수석연구원으로 근무하고 있는 김코딩입니다. 기계공학과 컴퓨터공학을 전공하며 학사와 석사 학위를 취득한 뒤, 22년간 로봇 기술 개발에 매진해왔습니다. 현재는 모바일 로봇 제어 소프트웨어와 자율주행 알고리즘 개발에 주력하고 있습니다."
+                },
+                {
+                    "section": "학력 및 전문성",
+                    "text": "저는 기계공학 학사와 컴퓨터공학 석사 학위를 취득하며 로봇 시스템 설계와 소프트웨어 개발을 깊이 있게 학습하였습니다. 이론적 배경과 실무 경험을 바탕으로 로봇 제어와 내비게이션 시스템 설계 및 개발 역량을 보유하고 있습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "저는 Python, C++, Java 등 프로그래밍 언어와 ROS(Robot Operating System)에 대한 깊은 이해를 가지고 있습니다. 로봇 제어, 자율주행 알고리즘 설계, 비전 기반 장애물 검출 기술에도 전문성을 갖추고 있습니다."
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경험",
+                    "text": "저는 포스코DX에서 다음과 같은 주요 업무를 수행했습니다:\n- 모바일 로봇 제어 소프트웨어 설계\n- 이동운반체의 자율주행 알고리즘 개발\n- 비전 기반 물체 및 장애물 검출 기술 연구\n이를 통해 로봇 시스템의 효율성과 안정성을 크게 향상시켰습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 로봇 기술을 활용하여 더 안전하고 효율적인 자동화 시스템을 개발하는 데 기여하고자 합니다. 앞으로도 최신 로봇 공학 기술을 연구하고, 이를 산업 현장에서 구현하여 조직의 경쟁력을 강화하고자 합니다."
+                }
+            ]
+        },
+        {
+            "id": "KEYMAN007",
+            "personalInfo": {
+                "name": "이컴공",
+                "email": "leekong@poscodx.com",
+                "mphone": "010-5678-1234",
+                "dphone": "010-5678-1234",
+                "location": "포스코DX AI기술센터"
+            },
+            "eduBg": [
+                {
+                    "degree": "학사",
+                    "major": "컴퓨터공학",
+                    "date_awarded": "2005-02"
+                },
+                {
+                    "degree": "석사",
+                    "major": "소프트웨어공학",
+                    "date_awarded": "2007-02"
+                },
+                {
+                    "degree": "박사",
+                    "major": "로봇공학",
+                    "date_awarded": "2011-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "박사",
+                "academic_major": "로봇공학",
+                "company": "포스코DX",
+                "department": "AI기술센터",
+                "position": "수석연구원",
+                "yearsOfExperience": 13,
+                "joinDate": "2011-03-01",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "인공지능 / 머신러닝",
+                        "proficiency": "Expert"
+                    },
+                    {
+                        "name": "ROS (Robot Operating System)",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "로봇 공학 시뮬레이션",
+                        "proficiency": "Advanced"
+                    }
+                ],
+                "soft": ["창의적 문제 해결", "리더십", "팀워크"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "로봇의 환경 인식 성능 향상 프로젝트",
+                    "duration_from": "2021-01",
+                    "duration_to": "2021-12"
+                },
+                {
+                    "name": "머신러닝 알고리즘을 활용한 로봇 인공지능 개발",
+                    "duration_from": "2022-01",
+                    "duration_to": "2022-12"
+                },
+                {
+                    "name": "모바일 로봇 자율주행 알고리즘 개발 및 최적화",
+                    "duration_from": "2023-01",
+                    "duration_to": "2023-12"
+                },
+                {
+                    "name": "로봇 공학 시뮬레이션툴을 활용한 알고리즘 검증",
+                    "duration_from": "2024-01",
+                    "duration_to": "2024-12"
+                }            
+            ],
+            "projects": [],
+            "distinctions": [],
+            "businessKeywords": [
+                "인공지능",
+                "머신러닝",
+                "로봇공학",
+                "자율주행",
+                "시뮬레이션"
+            ],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 포스코DX AI기술센터에서 수석연구원으로 근무하고 있는 이컴공입니다. 컴퓨터공학 학사와 소프트웨어공학 석사를 거쳐 로봇공학 박사 학위를 취득했으며, 로봇 공학과 인공지능 기술을 접목하는 프로젝트를 주도해왔습니다."
+                },
+                {
+                    "section": "학력 및 전문성",
+                    "text": "저는 로봇공학 박사 과정을 통해 로봇 하드웨어와 소프트웨어 설계에 대한 심층적인 지식을 쌓았습니다. 이를 바탕으로 인공지능 및 머신러닝을 활용한 로봇 시스템 설계와 최적화에 강점을 가지고 있습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "저는 강화학습, 전이학습 등 다양한 머신러닝 기법과 ROS(Robot Operating System)를 활용한 다중 센서 융합 처리에 능숙합니다. 또한, 로봇 공학 시뮬레이션 도구를 통해 알고리즘 검증과 최적화를 수행할 수 있는 역량을 갖추고 있습니다."
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경험",
+                    "text": "포스코DX에서 다음과 같은 주요 프로젝트에 참여하였습니다:\n- 로봇의 환경 인식 성능 향상 프로젝트\n- 머신러닝 기반 로봇 인공지능 개발\n- 자율주행 알고리즘 개발 및 최적화\n- 로봇 공학 시뮬레이션툴을 활용한 알고리즘 검증\n이를 통해 로봇 기술의 안정성과 효율성을 크게 향상시켰습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 로봇과 인공지능 기술을 융합하여 산업 현장에서 혁신적인 솔루션을 제공하고자 합니다. 특히, 자율주행 로봇 및 지능형 시스템을 통해 새로운 가치를 창출하는 데 기여하고 싶습니다."
+                }          
+            ]
+        },
+        {
+            "id": "KEYMAN008",
+            "personalInfo": {
+                "name": "강바람",
+                "email": "kangbaram@posco.com",
+                "mphone": "010-2345-6789",
+                "dphone": "054-123-4567",
+                "location": "포스코 강재연구소 에너지조선연구그룹"
+            },
+            "eduBg": [
+                {
+                    "degree": "박사",
+                    "major": "재료공학",
+                    "date_awarded": "2017-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "박사",
+                "academic_major": "재료공학",
+                "company": "포스코",
+                "department": "강재연구소 에너지조선연구그룹",
+                "position": "수석연구원",
+                "yearsOfExperience": 6,
+                "joinDate": "2017-03-01",
+                "employmentType": "정규직"            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "고강도 신소재 개발",
+                        "proficiency": "Expert"
+                    },
+                    {
+                        "name": "해상 구조물 테스트",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "피로 수명 평가",
+                        "proficiency": "Advanced"
+                    }
+                ],
+                "soft": ["문제 해결 능력", "팀워크", "데이터 기반 분석"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "해상 구조물의 장기간 내구성을 위한 피로 수명 평가",
+                    "duration_from": "2023-01",
+                    "duration_to": "2023-12"
+                },
+                {
+                    "name": "진동 분석 및 피로 균열 발생 메커니즘 연구",
+                    "duration_from": "2023-01",
+                    "duration_to": "2023-12"
+                }
+            ],
+            "projects": [],
+            "distinctions": [], 
+            "businessKeywords": [
+                "고강도 신소재",
+                "피로 수명",
+                "해상풍력",
+                "철강 구조물",
+                "ISO, ASTM, DNV GL 테스트"
+            ],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 포스코 강재연구소 에너지조선연구그룹에서 수석연구원으로 근무하고 있는 강바람입니다. 재료공학 박사 학위를 취득한 이후, 해상풍력과 관련된 고강도 신소재 개발과 구조물 테스트에 주력하고 있습니다."
+                },
+                {
+                    "section": "학력 및 전문성",
+                    "text": "저는 재료공학 박사 학위를 취득하며 고강도 신소재와 철강 구조물 설계에 대한 전문성을 쌓았습니다. ISO, ASTM, DNV GL 등 국제 규격을 준수하며 해상 구조물 테스트와 피로 수명 평가를 성공적으로 수행해왔습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "고강도 신소재 개발, 해상 구조물 테스트, 진동 분석 및 피로 균열 연구에 전문성을 보유하고 있습니다. 데이터 기반 분석 능력을 바탕으로 효율적이고 지속 가능한 기술 개발에 기여하고 있습니다."
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경험",
+                    "text": "저는 다음과 같은 주요 업무를 수행해왔습니다:\n- 해상 구조물의 장기간 내구성을 위한 피로 수명 평가\n- 진동 분석 및 피로 균열 발생 메커니즘 연구\n이를 통해 해상풍력용 구조물의 안정성과 내구성을 크게 향상시켰습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 해상풍력 분야에서 지속 가능한 철강 소재와 구조물을 개발하여 산업 전반의 혁신을 이끄는 것을 목표로 하고 있습니다."
+                }
+            ]
+        },
+        {
+            "id": "KEYMAN009",
+            "personalInfo": {
+                "name": "박강재",
+                "email": "parksteel@posco.com",
+                "mphone": "010-9876-5432",
+                "dphone": "032-987-6543",
+                "location": "포스코 철강솔루션연구소 구조연구그룹"
+            },
+            "eduBg": [
+                {
+                    "degree": "석사",
+                    "major": "금속공학",
+                    "date_awarded": "2015-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "석사",
+                "academic_major": "금속공학",
+                "company": "포스코",
+                "department": "철강솔루션연구소 구조연구그룹",
+                "position": "수석연구원",
+                "yearsOfExperience": 9,
+                "joinDate": "2015-03-01",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "해상풍력용 강재 개발",
+                        "proficiency": "Expert"
+                    },
+                    {
+                        "name": "방청코팅 및 핫딥갈바나이징 기술",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "캐소드 보호 시스템 설계",
+                        "proficiency": "Advanced"
+                    }
+                ],
+                "soft": ["팀워크", "문제 해결 능력", "리더십"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "부유식 해상풍력 특화강 이용 기술 개발",
+                    "duration_from": "2022-01",
+                    "duration_to": "2022-12"
+                },
+                {
+                    "name": "고내식성, 고강도 해상풍력용 강재 개발",
+                    "duration_from": "2023-01",
+                    "duration_to": "2023-12"
+                },
+                {
+                    "name": "해상 풍력 터빈 타워 및 하부 구조물 강재 연구",
+                    "duration_from": "2024-01",
+                    "duration_to": "2024-12"
+                }
+            ],
+            "projects": [],
+            "distinctions": [],
+            "businessKeywords": [
+                "해상풍력",
+                "특화강",
+                "고강도 강재",
+                "방청코팅",
+                "캐소드 보호"
+            ],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 포스코 철강솔루션연구소 구조연구그룹에서 수석연구원으로 근무하고 있는 박강재입니다. 금속공학 석사 학위를 바탕으로 해상풍력용 강재 개발에 주력하며, 다양한 기술 혁신을 이끌고 있습니다."
+                },
+                {
+                    "section": "학력 및 전문성",
+                    "text": "저는 금속공학 석사 학위를 취득하며 강재 개발과 표면 처리 기술에 전문성을 쌓았습니다. 특히 해상풍력 분야에서 고강도 및 고내식성 강재 개발과 캐소드 보호 기술 설계에 주력하고 있습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "해상풍력용 강재 개발, 방청코팅 및 핫딥갈바나이징 기술, 캐소드 보호 시스템 설계 및 적용에 전문성을 보유하고 있습니다."
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경험",
+                    "text": "포스코에서 다음과 같은 주요 프로젝트에 참여하였습니다:\n- 부유식 해상풍력 특화강 이용 기술 개발\n- 고내식성, 고강도 해상풍력용 강재 개발\n- 해상 풍력 터빈 타워 및 하부 구조물 강재 연구\n이를 통해 해상풍력 산업 전반의 기술 혁신에 기여하였습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 해상풍력 산업에서 지속 가능한 강재 개발과 관련된 연구를 더욱 발전시켜, 글로벌 경쟁력을 강화하는 데 기여하고자 합니다."
+                }
+            ]
+        },
+        {
+            "id": "KEYMAN010",
+            "personalInfo": {
+                "name": "이설계",
+                "email": "leesulgye@poscoenc.com",
+                "mphone": "010-5555-4444",
+                "dphone": "010-5555-4444",
+                "location": "포스코이앤씨 그린해양사업추진반"
+            },
+            "eduBg": [
+                {
+                    "degree": "석사",
+                    "major": "건축공학",
+                    "date_awarded": "2010-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "석사",
+                "academic_major": "건축공학",
+                "company": "포스코이앤씨",
+                "department": "그린해양사업추진반",
+                "position": "리더",
+                "yearsOfExperience": 13,
+                "joinDate": "2010-03-01",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "해상풍력 터빈 설계",
+                        "proficiency": "Expert"
+                    },
+                    {
+                        "name": "구조 설계 최적화",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "고강도 저합금강 설계",
+                        "proficiency": "Advanced"
+                    }
+                ],
+                "soft": ["창의적 문제 해결", "리더십", "팀워크"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "해상 풍력 터빈 타워 및 하부 구조물 설계",
+                    "duration_from": "2023-01",
+                    "duration_to": "2023-12"
+                },
+                {
+                    "name": "고강도 저합금강을 사용한 구조물 최적화 설계",
+                    "duration_from": "2024-01",
+                    "duration_to": "2024-12"
+                }
+            ],
+            "projects": [],
+            "distinctions": [],
+            "businessKeywords": [
+                "해상풍력",
+                "터빈 설계",
+                "구조 최적화",
+                "저합금강",
+                "템퍼링 강철"
+            ],
+            "covLetter": [
+                {
+                    "section": "소개",
+                    "text": "저는 포스코이앤씨 그린해양사업추진반에서 리더로 근무하고 있는 이설계입니다. 건축공학 석사 학위를 바탕으로 해상풍력 터빈 및 구조물 설계를 총괄하고 있으며, 지속 가능한 설계 최적화에 주력하고 있습니다."
+                },
+                {
+                    "section": "학력 및 전문성",
+                    "text": "저는 건축공학 석사 학위를 취득하며 구조 설계와 해상풍력 터빈 시스템에 대한 깊은 이해를 쌓았습니다. 특히 고강도 저합금강과 템퍼링 강철을 사용한 구조물 설계 최적화에 강점을 보유하고 있습니다."
+                },
+                {
+                    "section": "보유 기술 및 자격",
+                    "text": "해상풍력 터빈 및 하부 구조 설계, 고강도 저합금강을 사용한 구조 최적화 설계, 템퍼링 강철 활용에 전문성을 보유하고 있습니다."
+                },
+                {
+                    "section": "주요 업무 또는 프로젝트 경험",
+                    "text": "저는 다음과 같은 주요 프로젝트를 통해 역량을 발휘하였습니다:\n- 해상 풍력 터빈 타워 및 하부 구조물 설계\n- 고강도 저합금강 및 템퍼링 강철을 활용한 구조물 최적화 설계\n이를 통해 해상풍력 산업의 설계 효율성과 안정성을 크게 향상시켰습니다."
+                },
+                {
+                    "section": "향후 목표",
+                    "text": "저는 해상풍력 산업에서 지속 가능한 구조 설계와 소재 혁신을 통해 글로벌 선도기업으로의 도약에 기여하고자 합니다."
+                }
+            ]
+        },
+        {
+            "id": "KEYMAN011",
+            "personalInfo": {
+                "name": "장기혁",
+                "email": "jkh@posco.com",
+                "mphone": "010-1122-3344",
+                "dphone": "054-234-5678",
+                "location": "포항 연구소 2층"
+            },
+            "eduBg": [
+                {
+                    "degree": "박사",
+                    "major": "금속공학",
+                    "date_awarded": "2018-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "박사",
+                "academic_major": "금속공학",
+                "company": "포스코",
+                "department": "강재연구소",
+                "position": "수석연구원",
+                "yearsOfExperience": 10,
+                "joinDate": "2013-03-01",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "금속 분말 설계",
+                        "proficiency": "Expert"
+                    },
+                    {
+                        "name": "3D 프린팅",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "재료 물성 분석",
+                        "proficiency": "Advanced"
+                    }
+                ],
+                "soft": ["팀워크", "문제 해결 능력", "창의적 사고"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "금속 분말 3D 프린팅 기술 연구",
+                    "duration_from": "2021-01",
+                    "duration_to": "2023-12"
+                },
+                {
+                    "name": "신소재 설계 및 상용화 연구",
+                    "duration_from": "2019-01",
+                    "duration_to": "2021-12"
+                }
+            ],
+            "distinctions": [],
+            "businessKeywords": [
+                "금속공학",
+                "3D 프린팅",
+                "재료 물성",
+                "신소재 개발"
+            ],
+            "covLetter": []
+        },
+        {
+            "id": "KEYMAN012",
+            "personalInfo": {
+                "name": "김민수",
+                "email": "minsoo.kim@posco.com",
+                "mphone": "010-2233-4455",
+                "dphone": "032-5678-1234",
+                "location": "인천 송도 본사 12층"
+            },
+            "eduBg": [
+                {
+                    "degree": "학사",
+                    "major": "전자공학",
+                    "date_awarded": "2015-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "학사",
+                "academic_major": "전자공학",
+                "company": "포스코DX",
+                "department": "스마트 공정팀",
+                "position": "프로",
+                "yearsOfExperience": 7,
+                "joinDate": "2016-03-01",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "IoT 시스템 개발",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "Python",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "데이터 시각화",
+                        "proficiency": "Intermediate"
+                    }
+                ],
+                "soft": ["팀워크", "분석력", "리더십"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "IoT 기반 스마트 공정 설계",
+                    "duration_from": "2022-01",
+                    "duration_to": "2023-12"
+                },
+                {
+                    "name": "데이터 시각화 솔루션 개발",
+                    "duration_from": "2021-01",
+                    "duration_to": "2022-12"
+                }
+            ],
+            "distinctions": [],
+            "businessKeywords": [
+                "IoT",
+                "스마트 공정",
+                "데이터 시각화"
+            ],
+            "covLetter": []
+        },
+        {
+            "id": "KEYMAN013",
+            "personalInfo": {
+                "name": "박지훈",
+                "email": "jhpark@posco.com",
+                "mphone": "010-3344-5566",
+                "dphone": "032-9876-5432",
+                "location": "서울 서관 5층"
+            },
+            "eduBg": [
+                {
+                    "degree": "석사",
+                    "major": "환경공학",
+                    "date_awarded": "2012-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "석사",
+                "academic_major": "환경공학",
+                "company": "포스코",
+                "department": "환경기술팀",
+                "position": "매니저",
+                "yearsOfExperience": 10,
+                "joinDate": "2013-05-01",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "환경 평가",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "폐기물 처리 기술",
+                        "proficiency": "Intermediate"
+                    }
+                ],
+                "soft": ["문제 해결", "팀워크"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "환경 영향 평가 프로젝트",
+                    "duration_from": "2022-01",
+                    "duration_to": "2023-12"
+                }
+            ],
+            "distinctions": [],
+            "businessKeywords": [
+                "환경공학",
+                "폐기물 처리",
+                "환경 영향 평가"
+            ],
+            "covLetter": []
+        },
+        {
+            "id": "KEYMAN014",
+            "personalInfo": {
+                "name": "윤미래",
+                "email": "yoonfuture@posco.com",
+                "mphone": "010-4455-6677",
+                "dphone": "054-567-8901",
+                "location": "포항 기술연구소 3층"
+            },
+            "eduBg": [
+                {
+                    "degree": "학사",
+                    "major": "기계공학",
+                    "date_awarded": "2016-02"
+                }
+            ],
+            "professionalInfo": {
+                "degree_last": "학사",
+                "academic_major": "기계공학",
+                "company": "포스코DX",
+                "department": "로봇개발팀",
+                "position": "프로",
+                "yearsOfExperience": 6,
+                "joinDate": "2017-03-01",
+                "employmentType": "정규직"
+            },
+            "skills": {
+                "technical": [
+                    {
+                        "name": "로봇 설계",
+                        "proficiency": "Advanced"
+                    },
+                    {
+                        "name": "자동화 시스템",
+                        "proficiency": "Intermediate"
+                    }
+                ],
+                "soft": ["창의적 문제 해결", "리더십"],
+                "certifications": []
+            },
+            "workExps": [
+                {
+                    "name": "로봇 설계 및 제작 프로젝트",
+                    "duration_from": "2021-01",
+                    "duration_to": "2023-12"
+                }
+            ],
+            "distinctions": [],
+            "businessKeywords": [
+                "로봇공학",
+                "자동화 시스템",
+                "기계 설계"
+            ],
+            "covLetter": []
+        }      
+    ]
+}
